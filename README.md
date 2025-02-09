@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MaureenZac
 - 👀 I’m interested in books and music
 - 🌱 I’m currently learning Business Analytics
-- 💞️ I’m looking to collaborate on python
+- 💞️ I’m looking to collaborate on Tableau, Power BI and Python
 - 📫 Reach me out by my email maureenzachariah@gmail.com
 
 <!---
